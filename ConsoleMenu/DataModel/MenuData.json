@@ -1,0 +1,139 @@
+{
+    "caption":  "Please select your favourite animal",
+    "uid":      "",
+    "items":  [
+        {
+            "selector":     "1",
+            "backselector": "0",
+            "caption":      "Domestic animals",
+            "uid":          "",
+            "items":  [
+                {
+                    "selector": "1",
+                    "backselector": "0",
+                    "caption":  "Dogs",
+                    "uid":      "dog",
+                    "items":  [
+                        {
+                            "selector": "1",
+                            "caption":  "Labrador",
+                            "uid":      "dog.labrador"
+                        },
+                        {
+                            "selector": "2",
+                            "caption":  "Pug",
+                            "uid":      "dog.pug"
+                        },
+                        {
+                            "selector": "3",
+                            "caption":  "Hound",
+                            "uid":      "dog.hound"
+                        }
+                    ]
+                },
+                {
+                    "selector": "2",
+                    "backselector": "0",
+                    "caption":  "Cats",
+                    "uid":      "cats",
+                    "items":  [
+                        {
+                            "selector": "1",
+                            "caption":  "Happy kitty",
+                            "uid":      "cat.happy"
+                        },
+                        {
+                            "selector": "2",
+                            "caption":  "Sleepy kitty",
+                            "uid":      "cat.sleepy"
+                        }
+                    ]
+                },
+                {
+                    "selector": "3",
+                    "caption":  "Guinea pig",
+                    "uid":      "guineapig"
+                },
+                {
+                    "selector": "4",
+                    "caption":  "Mouse",
+                    "uid":      "mouse"
+                },
+                {
+                    "selector": "5",
+                    "caption":  "Hedgehog",
+                    "uid":      "hedgehog"
+                }
+            ]
+        },
+        {
+            "selector":     "2",
+            "backselector": "0",
+            "caption":      "Wild animals",
+            "uid":          "",
+            "items":  [
+                {
+                    "selector": "1",
+                    "caption":  "Lion",
+                    "uid":      "lion"            
+                },
+                {
+                    "selector": "2",
+                    "caption":  "Tiger",
+                    "uid":      "tiger"
+                },
+                {
+                    "selector": "3",
+                    "caption":  "Zebra",
+                    "uid":      "zebra"
+                }
+            ]
+        },
+        {
+            "selector":     "3",
+            "backselector": "0",
+            "caption":      "Farm animals",
+            "uid":          "",
+            "items":  [
+                {
+                    "selector": "1",
+                    "backselector": "0",
+                    "caption":  "Horses",
+                    "uid":      "horse",
+                    "items":  [
+                        {
+                            "selector": "1",
+                            "caption":  "Quarter horse",
+                            "uid":      "horse.quarter"
+                        },
+                        {
+                            "selector": "2",
+                            "caption":  "Arabian",
+                            "uid":      "horse.arabian"
+                        },
+                        {
+                            "selector": "3",
+                            "caption":  "Frisian",
+                            "uid":      "horse.frisian"
+                        }
+                    ]
+                },
+                {
+                    "selector": "2",
+                    "caption":  "Sheep",
+                    "uid":      "sheep"
+                },
+                {
+                    "selector": "3",
+                    "caption":  "Cow",
+                    "uid":      "cow"
+                },
+                {
+                    "selector": "4",
+                    "caption":  "Pig",
+                    "uid":      "pig"
+                }
+            ]
+        }
+    ]
+}
